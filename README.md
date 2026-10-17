@@ -120,40 +120,6 @@ A full-stack MERN platform where users can list skills they can teach and discov
 
 ---
 
-## 🟢 RenderKeepAlive
-
-### Lightweight Backend Availability & Keep-Alive Service
-
-<a href="https://github.com/srijan2312/RenderKeepAlive">GitHub Repository ↗</a>
-&nbsp; · &nbsp;
-<a href="https://keepalive-4a02.onrender.com/api/health">Live API ↗</a>
-
-A lightweight Node.js backend built to periodically check deployed web applications and keep personal demo services responsive.
-
-### Key Engineering Work
-
-- 🌐 Configurable website monitoring
-- ❤️ Lightweight health endpoint
-- ⏱️ Scheduled health checks
-- 📡 HTTP status monitoring
-- ⚡ Response-time tracking
-- 🗄️ MongoDB-backed check history
-- 🔄 Automatic repeated checks
-- 🚀 Render deployment
-- 📈 Practical handling of deployed-service cold starts
-
-### Architecture
-
-**Scheduler → Health Check Service → Target APIs → MongoDB History**
-
-### Technology
-
-**Node.js · Express.js · MongoDB · Mongoose · Axios · node-cron · REST APIs · Render**
-
-> Deliberately kept small and understandable instead of turning it into an over-engineered monitoring platform.
-
----
-
 # 🧠 Technical Skills
 
 ### Languages
